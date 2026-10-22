@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="11b46cba-2b13-4d87-b441-44322eb2fa78" src="https://github.com/user-attachments/assets/509e20eb-00ea-47be-b95e-e86a71dcf32e" />
 # Rasterize Pro
 
 **A simple rasterization tool for Adobe Illustrator.**
