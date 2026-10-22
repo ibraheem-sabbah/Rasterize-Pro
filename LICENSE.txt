@@ -1,0 +1,42 @@
+PROPRIETARY SOFTWARE LICENSE  
+Copyright © 2026 Ibraheem Sabbah. All Rights Reserved.
+
+## 1. Ownership
+
+Rasterize Pro, including its source code, scripts, documentation, and original associated materials, is the exclusive intellectual property of Ibraheem Sabbah, except for third-party materials that may be subject to separate rights.
+
+## 2. No License Granted
+
+No license, permission, or right is granted to any individual or organization to use, install, execute, reproduce, modify, distribute, sublicense, sell, or create derivative works from Rasterize Pro without the prior explicit written authorization of the copyright holder.
+
+## 3. Restrictions
+
+Without prior written authorization from Ibraheem Sabbah, you may not:
+
+- Use or execute the script.
+- Copy, reproduce, modify, or adapt the source code.
+- Redistribute, publish, or share the script or its source code.
+- Sell, sublicense, or commercially distribute the script.
+- Incorporate any part of the script into another product, project, or software package.
+- Claim authorship or ownership of the original work.
+
+## 4. Copyright and Attribution
+
+All applicable copyright notices and ownership rights must be respected. Public availability of this repository does not constitute permission to use, modify, or redistribute the software.
+
+## 5. Disclaimer of Warranty
+
+The software is provided "AS IS", without warranties of any kind, express or implied, to the maximum extent permitted by applicable law.
+
+## 6. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the copyright holder shall not be liable for any damages arising from the use of, or inability to use, the software.
+
+## 7. Permission Requests
+
+Any request for authorization must be submitted to the copyright holder and explicitly approved in writing before the requested activity takes place.
+
+**Copyright Holder:** Ibraheem Sabbah  
+**LinkedIn:** https://www.linkedin.com/in/ibraheem-sabbah/
+
+All rights not expressly granted in writing are reserved by the copyright holder.
