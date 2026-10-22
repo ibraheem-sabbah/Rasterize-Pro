@@ -16,7 +16,7 @@ Rasterize selected artwork into individual images with customizable resolution a
 
 ## Installation
 
-### Quick Start
+### Quick Start 🏃
 
 1. Download `Rasterize_Pro.jsx` from this repository.
 2. Open Adobe Illustrator and select the objects you want to rasterize.
@@ -29,7 +29,7 @@ Rasterize selected artwork into individual images with customizable resolution a
 2. Restart Illustrator.
 3. Find **Rasterize Pro** under **File → Scripts**.
 
-## How to Use
+## How to Use ❓
 
 1. Select your artwork.
 2. Run **Rasterize Pro**.
@@ -38,13 +38,13 @@ Rasterize selected artwork into individual images with customizable resolution a
 
 **Tip:** Save a backup of your Illustrator document before rasterizing. Converted objects are no longer editable as their original vector or text elements.
 
-## Troubleshooting
+## Troubleshooting 💢
 
 - **No objects processed:** Make sure the intended artwork is selected.
 - **Conversion failed:** Check whether the object is locked, hidden, or part of a complex group.
 - **Dimensions changed slightly:** Check the final dimensions after rasterization.
 
-## Copyright
+## Copyright ©️
 
 **Copyright © 2026 Ibraheem Sabbah. All rights reserved.**
 
